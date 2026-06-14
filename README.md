@@ -16,7 +16,7 @@ Reads your `git diff` and generates a conventional commit message in seconds.
 
 ```bash
 
-pip install gitai
+pip install gcommitai
 
 export ANTHROPIC\_API\_KEY="your-key-here"
 
